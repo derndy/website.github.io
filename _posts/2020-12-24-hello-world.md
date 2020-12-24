@@ -2,7 +2,7 @@
 layout: post
 title: My First Post!
 subtitle : Writing my first scientific blog
-tags: [Sample Post, research]
+tags: [one piece, research]
 author: Xu Shidang
 comments : False
 ---

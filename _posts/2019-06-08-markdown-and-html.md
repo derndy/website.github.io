@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post with Markdown
 subtitle : How markdown is displayed as html
-tags: [Sample Post, Demo]
+tags: [life, efficiency]
 author: Nayeong Kim
 comments : True
 ---
