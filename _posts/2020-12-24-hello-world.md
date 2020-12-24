@@ -2,24 +2,14 @@
 layout: post
 title: My First Post!
 subtitle : Writing my first scientific blog
-tags: [Sample Post, Welcome to the Grape Theme!]
+tags: [Sample Post, research]
 author: Xu Shidang
 comments : False
 ---
 
-This is an example of a post which includes code, quotes and backtick.
+Thank`Pengfei` to help me start up my website. 
 
-you can easy to change style in `_utility.html`.
 
-A sample of the formatting follows.
-
-<br>
-
-code, quotes and backtick를 포함하고 있는 게시물의 예입니다. 
-
- `_utility.html`에서 스타일을 변경할 수 있으며, 서식 샘플은 아래와 같습니다.
-
-<br>
 
 <h2>1. Code </h2>
 You can add highlighting for code in `highlight.scss`.
@@ -27,7 +17,7 @@ You can add highlighting for code in `highlight.scss`.
 {% highlight python %}
 # test function
 def test :
-    print('hello world!')
+    print('thank you, pengfei!')
 {% endhighlight %}
 
 <br>
