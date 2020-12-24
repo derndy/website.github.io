@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample Post with Grape-Theme style
-subtitle : How markdown is displayed as html
+title: My First Post!
+subtitle : Writing my first scientific blog
 tags: [Sample Post, Welcome to the Grape Theme!]
-author: Nayeong Kim
+author: Xu Shidang
 comments : False
 ---
 
