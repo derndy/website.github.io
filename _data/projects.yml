@@ -1,14 +1,14 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/naye0ng/Grape-Theme # Full URL
+    url : https://github.com/xushidang-1 # Full URL
     image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
-    summary : A awesome jekyll theme!
-    description : This project is my first jekyll theme. and everyone can customize this easily.  
+    date : 2009.09.09 - 2011.11.01
+    title : Detection of DNA oxidation
+    summary : A finding of a new DNA oxidation phenon
+    description : This project is my first research project 
     contents :
-        - title : 1. 블로그 첫 화면 구성
+        - title : 1. dna oxidation 
           image : home.png
           description : <li>Responsive Layout</li>
             <li>User Profile</li> 
@@ -32,7 +32,37 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
-    summary : This is Dummy
+    date : 2012.07.01 - 2014.07.10
+    title : develop AIE-TADF materials
+    summary : This is awesome, the first AIE-TADF material was made by me
+    description :  
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2014.07.20 - 2018.02.10
+    title : develop new design strategy for photosensitizer 
+    summary : reducing S-T gap strategy now is the common strategy for PS design
+    description :  
+
+    - project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2016.07.20 - 2019.01.06
+    title : develop design strategy for pi based molecule 
+    summary : 
+    description :  
+
+     - project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2019.01.10 - now
+    title : machine learning based molecular materials discovery
+    summary : 
     description :  
